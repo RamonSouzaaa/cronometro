@@ -1,24 +1,8 @@
-# cronometro
+<h1>Olá 👋, tudo bem?</h1>
+<p>Esse projeto foi criado dentro do curso de vue que eu estou estudando, foi utilizado alguns conceito do vue e também algumas diretivas básicas do framework.</p>
 
-## Project setup
-```
-npm install
-```
+##
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h3>Cronômetro</h3>
+<p>Tela inicial do projeto</p>
+<img src="https://github.com/RamonSouzaaa/cronometro/blob/master/src/assets/PROJETO_CRONOMETRO.PNG"/>
